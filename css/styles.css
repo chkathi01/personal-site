@@ -1,0 +1,70 @@
+body {
+  font-family: "Merriweather", serif;
+  margin: 0;
+  text-align: center;
+}
+
+.bottom-binary{
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
+
+.c-plus {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.developer {
+  width: 350px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  line-height: 1.5;
+  color: #065471;
+}
+
+h2 {
+  font-family: "Montserrat", san-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #065471;
+}
+
+h3 {
+  font-family: "Montserrat", san-serif;
+  font-weight: bolder;
+}
+
+.profile-pic {
+    width: 250px;
+    margin-top: 30px;
+}
+
+.python{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.skill-row {
+  margin: 75px auto 75px auto;
+  line-height: 2;
+  text-align: left;
+  width:50%;
+}
+
+.top-container {
+  background-color: #DEECFC;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-binary{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
